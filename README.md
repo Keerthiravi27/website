@@ -32,12 +32,16 @@ website.html
 
 <!DOCTYPE html>
 <html lang="en">
+  
 <head>
+  
   <meta charset="UTF-8" />
+  
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Sunday Splash | Restaurant</title>
   <style>
     * {
+      
       margin: 0;
       padding: 0;
       box-sizing: border-box;
@@ -225,6 +229,7 @@ website.html
   </header>
 
   <nav>
+    
     <a href="#menu">Menu</a>
     <a href="#chefs">Chefs</a>
     <a href="#book">Book</a>
@@ -234,6 +239,7 @@ website.html
 
   <section id="menu">
     <h2>Our Menu</h2>
+    
     <div class="menu">
       <div class="menu-item">
         <img src="biryani.png" alt="Biryani">
@@ -311,6 +317,7 @@ website.html
   <section id="book" class="book">
     <h2>Book a Table</h2>
     <form>
+      
       <input type="text" placeholder="Full Name" required>
       <input type="email" placeholder="Email Address" required>
       <input type="tel" placeholder="Phone Number" required>
@@ -347,12 +354,14 @@ website.html
 
 
 # OUTPUT:
-![alt text](<restaurant/websiteapp/static/Screenshot 2025-05-01 143531.png>)
-![alt text](<restaurant/websiteapp/static/Screenshot 2025-05-01 143624.png>)
-![alt text](<restaurant/websiteapp/static/Screenshot 2025-05-01 143651.png>)
-![alt text](<restaurant/websiteapp/static/Screenshot 2025-05-01 143705.png>)
-![alt text](<restaurant/websiteapp/static/Screenshot 2025-05-01 143719.png>)
-![alt text](<restaurant/websiteapp/static/Screenshot 2025-05-01 143732.png>)
+![Screenshot 2025-05-01 143531](https://github.com/user-attachments/assets/b2191eee-8d50-40eb-99cf-67f1c8766445)
+![Screenshot 2025-05-01 143624](https://github.com/user-attachments/assets/e853ef14-f578-424b-8c24-041d28586d11)
+![Screenshot 2025-05-01 143651](https://github.com/user-attachments/assets/47d35807-4a11-43a8-abe6-62bb6f846d07)
+![Screenshot 2025-05-01 143705](https://github.com/user-attachments/assets/301a6f1e-2333-4544-b5de-9d863483e7df)
+![Screenshot 2025-05-01 143719](https://github.com/user-attachments/assets/a73a6166-328b-4110-817a-4034ba0e605b)
+![Screenshot 2025-05-01 143732](https://github.com/user-attachments/assets/2c05dec5-836c-4bb5-8eca-76ef1afb6d55)
+
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

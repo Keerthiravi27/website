@@ -27,7 +27,7 @@ Publish the website in the given URL.
 
 # PROGRAM:
 
-'''
+```
 website.html
 
 <!DOCTYPE html>
@@ -348,7 +348,7 @@ website.html
 </body>
 </html>
 
-'''
+```
 
 
 
